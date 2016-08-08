@@ -1,0 +1,16 @@
+[
+{
+  "modid": "villagetech",
+  "name": "VillageTech",
+  "description": "Transforming villages into an industrial setting.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["LimpLungs"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
