@@ -1,2 +1,37 @@
-# VillageTech
-Minecraft Mod: VillageTech is a WIP mod about making village structures functional, or at least upgradeable. Idea stems from brainstorming for LimpCraft2, but after JSON changes between 1.7.10 and 1.8, I took a step back and decided to restart. This is not so much a continuation of LimpCraft as it is a new mod all together. Yes, it will feature some of the old machines, but it won't rely on LimpCore and will be more well though out and stuff...
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/ForgeCraft3-Inf/VillageTech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ForgeCraft3-Inf/VillageTech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
